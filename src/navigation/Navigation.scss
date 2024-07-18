@@ -1,0 +1,10 @@
+.navigation-container {
+    .MuiDrawer-docked {
+        margin-right: -16px !important;
+        .MuiPaper-elevation {
+            background-color: transparent;
+            border: none;
+            
+        }
+    }
+}
